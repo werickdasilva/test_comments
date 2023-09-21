@@ -1,0 +1,5 @@
+[book]
+authors = ["Werick da Silva Santana"]
+language = "en"
+multilingual = false
+src = "src"
